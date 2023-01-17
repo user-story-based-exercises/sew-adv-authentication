@@ -13,4 +13,5 @@ SEW | ADV | Authentification
 - Use the provided files to configure authentication according to the provided slides
 - Copy the autoconfig folder into src/main/java/server/yousong
 - Update your pom.xml with the provided version
+- Login: POST request to endpoint /login sending form-data including the properties: username and password
 - Minor difference to the slides - use cookies instead of header token
